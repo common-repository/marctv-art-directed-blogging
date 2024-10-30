@@ -1,0 +1,14 @@
+#switch_style {
+    float:right;
+    padding-right:10px;
+}
+
+#switch_style a {
+  cursor:pointer;
+  text-decoration: none;
+}
+
+#switch_style a .dashicons {
+    font-size: inherit;
+    height: 1em;
+}
